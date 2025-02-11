@@ -1,4 +1,4 @@
-<h1>🚀 Built an Age Calculator using HTML, CSS & JavaScript! 🎉</h1>
+<h1>🚀 Built an Age Calculator 🎉</h1>
 
 <h2>Ever wondered how many years, months, and days old you are? 🤔 I created a simple yet powerful Age Calculator that instantly calculates your exact age based on your date of birth! 🗓️</h2>
 
@@ -8,9 +8,9 @@
 ✅ JavaScript – For adding the logic and interactivity ⚡
 
 <h1>💡 Features:</h1>
-🔹 User-friendly interface 🖥️
-🔹 Instant age calculation ⏳
-🔹 Responsive design 📱
+<p>🔹 User-friendly interface 🖥️</p>
+<p>🔹 Instant age calculation ⏳</p>
+<p>🔹 Responsive design 📱</p>
 
 
 Live Demo:https://disha1527.github.io/Age-Calculator/
